@@ -1,0 +1,9 @@
+llama-index
+graspologic
+numpy
+scipy
+PyPDF2
+transformers
+openai
+tenacity
+torch
